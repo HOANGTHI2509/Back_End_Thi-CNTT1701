@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\lap1.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E68C28C0-4A19-4767-A6D4-8FCFAEA7DE99}|b6\\b6.csproj|c:\\users\\thiho\\onedrive\\documents\\back-end\\btvn\\lap1.2\\b6\\b6lap1.2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E68C28C0-4A19-4767-A6D4-8FCFAEA7DE99}|b6\\b6.csproj|solutionrelative:b6\\b6lap1.2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F3E141-8292-442E-8A4B-50B7D7CF8A9C}|b5\\b5.csproj|c:\\users\\thiho\\onedrive\\documents\\back-end\\btvn\\lap1.2\\b5\\b5lap1.2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4F3E141-8292-442E-8A4B-50B7D7CF8A9C}|b5\\b5.csproj|solutionrelative:b5\\b5lap1.2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D572247A-73D2-446E-832B-0EC04F8906B7}|b3\\b3.csproj|c:\\users\\thiho\\onedrive\\documents\\back-end\\btvn\\lap1.2\\b3\\b3lap1.2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D572247A-73D2-446E-832B-0EC04F8906B7}|b3\\b3.csproj|solutionrelative:b3\\b3lap1.2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCE89AB6-74F7-47F8-B9A1-907F65444D16}|b4\\b4.csproj|c:\\users\\thiho\\onedrive\\documents\\back-end\\btvn\\lap1.2\\b4\\b4lap1.2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCE89AB6-74F7-47F8-B9A1-907F65444D16}|b4\\b4.csproj|solutionrelative:b4\\b4lap1.2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B2BFE8-4064-4CFC-AC91-F283BCCD330D}|b2\\b2.csproj|c:\\users\\thiho\\onedrive\\documents\\back-end\\btvn\\lap1.2\\b2\\b2lap1.2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B2BFE8-4064-4CFC-AC91-F283BCCD330D}|b2\\b2.csproj|solutionrelative:b2\\b2lap1.2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\lap1.1\\b7\\b7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "b6Lap1.2.cs",
+              "DocumentMoniker": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\lap1.2\\b6\\b6Lap1.2.cs",
+              "RelativeDocumentMoniker": "b6\\b6Lap1.2.cs",
+              "ToolTip": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\lap1.2\\b6\\b6Lap1.2.cs",
+              "RelativeToolTip": "b6\\b6Lap1.2.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwBgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T14:47:45.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "b5Lap1.2.cs",
+              "DocumentMoniker": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\lap1.2\\b5\\b5Lap1.2.cs",
+              "RelativeDocumentMoniker": "b5\\b5Lap1.2.cs",
+              "ToolTip": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\lap1.2\\b5\\b5Lap1.2.cs",
+              "RelativeToolTip": "b5\\b5Lap1.2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T14:39:44.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "b4Lap1.2.cs",
+              "DocumentMoniker": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\lap1.2\\b4\\b4Lap1.2.cs",
+              "RelativeDocumentMoniker": "b4\\b4Lap1.2.cs",
+              "ToolTip": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\lap1.2\\b4\\b4Lap1.2.cs",
+              "RelativeToolTip": "b4\\b4Lap1.2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T14:26:10.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "b3Lap1.2.cs",
+              "DocumentMoniker": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\lap1.2\\b3\\b3Lap1.2.cs",
+              "RelativeDocumentMoniker": "b3\\b3Lap1.2.cs",
+              "ToolTip": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\lap1.2\\b3\\b3Lap1.2.cs",
+              "RelativeToolTip": "b3\\b3Lap1.2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T14:21:55.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "b2Lap1.2.cs",
+              "DocumentMoniker": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\lap1.2\\b2\\b2Lap1.2.cs",
+              "RelativeDocumentMoniker": "b2\\b2Lap1.2.cs",
+              "ToolTip": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\lap1.2\\b2\\b2Lap1.2.cs",
+              "RelativeToolTip": "b2\\b2Lap1.2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T14:01:14.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "b7.cs",
+              "DocumentMoniker": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\lap1.1\\b7\\b7.cs",
+              "RelativeDocumentMoniker": "..\\lap1.1\\b7\\b7.cs",
+              "ToolTip": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\lap1.1\\b7\\b7.cs",
+              "RelativeToolTip": "..\\lap1.1\\b7\\b7.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T13:59:31.891Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
