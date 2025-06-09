@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\lap1.5\\lap1.5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{010DB872-02C7-45FC-965A-D7E5D5FA41FF}|b2\\b2.csproj|c:\\users\\thiho\\onedrive\\documents\\back-end\\btvn\\lap1.5\\lap1.5\\b2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{010DB872-02C7-45FC-965A-D7E5D5FA41FF}|b2\\b2.csproj|solutionrelative:b2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{010DB872-02C7-45FC-965A-D7E5D5FA41FF}|b2\\b2.csproj|c:\\users\\thiho\\onedrive\\documents\\back-end\\btvn\\lap1.5\\lap1.5\\b2\\hinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{010DB872-02C7-45FC-965A-D7E5D5FA41FF}|b2\\b2.csproj|solutionrelative:b2\\hinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE3B9BD5-67B3-405F-8D2F-2EABE245706C}|b1\\b1.csproj|c:\\users\\thiho\\onedrive\\documents\\back-end\\btvn\\lap1.5\\lap1.5\\b1\\phanso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE3B9BD5-67B3-405F-8D2F-2EABE245706C}|b1\\b1.csproj|solutionrelative:b1\\phanso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE3B9BD5-67B3-405F-8D2F-2EABE245706C}|b1\\b1.csproj|c:\\users\\thiho\\onedrive\\documents\\back-end\\btvn\\lap1.5\\lap1.5\\b1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE3B9BD5-67B3-405F-8D2F-2EABE245706C}|b1\\b1.csproj|solutionrelative:b1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE3B9BD5-67B3-405F-8D2F-2EABE245706C}|b1\\b1.csproj|c:\\users\\thiho\\onedrive\\documents\\back-end\\btvn\\lap1.5\\lap1.5\\b1\\phanso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE3B9BD5-67B3-405F-8D2F-2EABE245706C}|b1\\b1.csproj|solutionrelative:b1\\phanso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{010DB872-02C7-45FC-965A-D7E5D5FA41FF}|b2\\b2.csproj|c:\\users\\thiho\\onedrive\\documents\\back-end\\btvn\\lap1.5\\lap1.5\\b2\\hinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010DB872-02C7-45FC-965A-D7E5D5FA41FF}|b2\\b2.csproj|solutionrelative:b2\\hinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010DB872-02C7-45FC-965A-D7E5D5FA41FF}|b2\\b2.csproj|c:\\users\\thiho\\onedrive\\documents\\back-end\\btvn\\lap1.5\\lap1.5\\b2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010DB872-02C7-45FC-965A-D7E5D5FA41FF}|b2\\b2.csproj|solutionrelative:b2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Hinh.cs",
               "DocumentMoniker": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\lap1.5\\lap1.5\\b2\\Hinh.cs",
               "RelativeDocumentMoniker": "b2\\Hinh.cs",
@@ -38,47 +38,44 @@
               "RelativeToolTip": "b2\\Hinh.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T16:55:22.831Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-20T16:55:22.831Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\lap1.5\\lap1.5\\b2\\Program.cs",
               "RelativeDocumentMoniker": "b2\\Program.cs",
               "ToolTip": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\lap1.5\\lap1.5\\b2\\Program.cs",
               "RelativeToolTip": "b2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T16:53:39.217Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-20T16:53:39.217Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Phanso.cs",
               "DocumentMoniker": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\lap1.5\\lap1.5\\b1\\Phanso.cs",
               "RelativeDocumentMoniker": "b1\\Phanso.cs",
               "ToolTip": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\lap1.5\\lap1.5\\b1\\Phanso.cs",
               "RelativeToolTip": "b1\\Phanso.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-20T16:34:39.769Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\lap1.5\\lap1.5\\b1\\Program.cs",
               "RelativeDocumentMoniker": "b1\\Program.cs",
               "ToolTip": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\lap1.5\\lap1.5\\b1\\Program.cs",
               "RelativeToolTip": "b1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBYAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T16:33:46.192Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-20T16:33:46.192Z"
             }
           ]
         }

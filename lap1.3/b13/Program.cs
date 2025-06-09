@@ -15,7 +15,7 @@ class Program
             Console.Write("Lua chon: ");
 
             int choice;
-            if (!int.TryParse(Console.ReadLine(), out choice))
+            if (!int.TryParse(Console.ReadLine(), out choice)) 
             {
                 Console.WriteLine("Vui long nhap so hop le!");
                 continue;

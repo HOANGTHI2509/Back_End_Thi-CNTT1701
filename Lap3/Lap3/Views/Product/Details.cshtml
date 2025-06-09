@@ -1,0 +1,37 @@
+﻿@model Product // Khai báo kiểu dữ liệu Model mà View này sẽ làm việc cùng
+
+@{
+    ViewData["Title"] = "Chi tiết sản phẩm"; // Tiêu đề trang, hiển thị trên tab trình duyệt
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<div>
+    <h4>Thông tin sản phẩm</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            ID:
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Id)
+        </dd>
+
+        <dt class="col-sm-2">
+            Tên sản phẩm:
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt class="col-sm-2">
+            Giá:
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Price) VNĐ
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Index" asp-controller="Home" class="btn btn-secondary">Quay lại trang chủ</a>
+</div>

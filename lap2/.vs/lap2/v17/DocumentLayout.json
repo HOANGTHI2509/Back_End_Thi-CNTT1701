@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\lap2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83FFC3E1-F6C3-4287-B6EC-4D1A95529EA6}|B1\\B1.csproj|c:\\users\\thiho\\onedrive\\documents\\back-end\\btvn\\lap2\\b1\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{83FFC3E1-F6C3-4287-B6EC-4D1A95529EA6}|B1\\B1.csproj|solutionrelative:b1\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83FFC3E1-F6C3-4287-B6EC-4D1A95529EA6}|B1\\B1.csproj|c:\\users\\thiho\\onedrive\\documents\\back-end\\btvn\\lap2\\b1\\views\\todo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{83FFC3E1-F6C3-4287-B6EC-4D1A95529EA6}|B1\\B1.csproj|solutionrelative:b1\\views\\todo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83FFC3E1-F6C3-4287-B6EC-4D1A95529EA6}|B1\\B1.csproj|c:\\users\\thiho\\onedrive\\documents\\back-end\\btvn\\lap2\\b1\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83FFC3E1-F6C3-4287-B6EC-4D1A95529EA6}|B1\\B1.csproj|solutionrelative:b1\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83FFC3E1-F6C3-4287-B6EC-4D1A95529EA6}|B1\\B1.csproj|c:\\users\\thiho\\onedrive\\documents\\back-end\\btvn\\lap2\\b1\\views\\todo\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{83FFC3E1-F6C3-4287-B6EC-4D1A95529EA6}|B1\\B1.csproj|solutionrelative:b1\\views\\todo\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83FFC3E1-F6C3-4287-B6EC-4D1A95529EA6}|B1\\B1.csproj|c:\\users\\thiho\\onedrive\\documents\\back-end\\btvn\\lap2\\b1\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83FFC3E1-F6C3-4287-B6EC-4D1A95529EA6}|B1\\B1.csproj|solutionrelative:b1\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\lap2\\B1\\Views\\Todo\\Edit.cshtml",
+              "RelativeDocumentMoniker": "B1\\Views\\Todo\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\lap2\\B1\\Views\\Todo\\Edit.cshtml",
+              "RelativeToolTip": "B1\\Views\\Todo\\Edit.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T01:24:06.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\lap2\\B1\\Views\\Todo\\Add.cshtml",
+              "RelativeDocumentMoniker": "B1\\Views\\Todo\\Add.cshtml",
+              "ToolTip": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\lap2\\B1\\Views\\Todo\\Add.cshtml",
+              "RelativeToolTip": "B1\\Views\\Todo\\Add.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T01:22:43.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\lap2\\B1\\Views\\Todo\\Index.cshtml",
+              "RelativeDocumentMoniker": "B1\\Views\\Todo\\Index.cshtml",
+              "ToolTip": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\lap2\\B1\\Views\\Todo\\Index.cshtml",
+              "RelativeToolTip": "B1\\Views\\Todo\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAgwC8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T01:21:00.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\lap2\\B1\\Models\\TodoItem.cs",
+              "RelativeDocumentMoniker": "B1\\Models\\TodoItem.cs",
+              "ToolTip": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\lap2\\B1\\Models\\TodoItem.cs",
+              "RelativeToolTip": "B1\\Models\\TodoItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T01:20:26.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\lap2\\B1\\Controllers\\TodoController.cs",
+              "RelativeDocumentMoniker": "B1\\Controllers\\TodoController.cs",
+              "ToolTip": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\lap2\\B1\\Controllers\\TodoController.cs",
+              "RelativeToolTip": "B1\\Controllers\\TodoController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwDQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T01:20:03.16Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

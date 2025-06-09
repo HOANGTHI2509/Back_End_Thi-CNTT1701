@@ -1,0 +1,43 @@
+﻿@model TodoItem // Khai báo kiểu dữ liệu mà View này sẽ làm việc cùng
+
+@{
+    ViewData["Title"] = "Thêm công việc mới";
+}
+
+<h1>Thêm công việc mới</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Add">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="Title" class="control-label"></label>
+                <input asp-for="Title" class="form-control" />
+                <span asp-validation-for="Title" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="IsCompleted" /> @Html.DisplayNameFor(model => model.IsCompleted)
+                </label>
+            </div>
+            <div class="form-group">
+                <label asp-for="DueDate" class="control-label"></label>
+                <input asp-for="DueDate" class="form-control" />
+                <span asp-validation-for="DueDate" class="text-danger"></span>
+            </div>
+            <br />
+            <div class="form-group">
+                <input type="submit" value="Thêm mới" class="btn btn-primary" />
+                <a asp-action="Index" class="btn btn-secondary">Quay lại danh sách</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

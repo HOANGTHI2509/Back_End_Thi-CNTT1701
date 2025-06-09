@@ -1,0 +1,15 @@
+C:\Users\thiho\OneDrive\Documents\Back-End\BTVN\lap1.3\b16\bin\Debug\net8.0\b16.exe
+C:\Users\thiho\OneDrive\Documents\Back-End\BTVN\lap1.3\b16\bin\Debug\net8.0\b16.deps.json
+C:\Users\thiho\OneDrive\Documents\Back-End\BTVN\lap1.3\b16\bin\Debug\net8.0\b16.runtimeconfig.json
+C:\Users\thiho\OneDrive\Documents\Back-End\BTVN\lap1.3\b16\bin\Debug\net8.0\b16.dll
+C:\Users\thiho\OneDrive\Documents\Back-End\BTVN\lap1.3\b16\bin\Debug\net8.0\b16.pdb
+C:\Users\thiho\OneDrive\Documents\Back-End\BTVN\lap1.3\b16\obj\Debug\net8.0\b16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiho\OneDrive\Documents\Back-End\BTVN\lap1.3\b16\obj\Debug\net8.0\b16.AssemblyInfoInputs.cache
+C:\Users\thiho\OneDrive\Documents\Back-End\BTVN\lap1.3\b16\obj\Debug\net8.0\b16.AssemblyInfo.cs
+C:\Users\thiho\OneDrive\Documents\Back-End\BTVN\lap1.3\b16\obj\Debug\net8.0\b16.csproj.CoreCompileInputs.cache
+C:\Users\thiho\OneDrive\Documents\Back-End\BTVN\lap1.3\b16\obj\Debug\net8.0\b16.sourcelink.json
+C:\Users\thiho\OneDrive\Documents\Back-End\BTVN\lap1.3\b16\obj\Debug\net8.0\b16.dll
+C:\Users\thiho\OneDrive\Documents\Back-End\BTVN\lap1.3\b16\obj\Debug\net8.0\refint\b16.dll
+C:\Users\thiho\OneDrive\Documents\Back-End\BTVN\lap1.3\b16\obj\Debug\net8.0\b16.pdb
+C:\Users\thiho\OneDrive\Documents\Back-End\BTVN\lap1.3\b16\obj\Debug\net8.0\b16.genruntimeconfig.cache
+C:\Users\thiho\OneDrive\Documents\Back-End\BTVN\lap1.3\b16\obj\Debug\net8.0\ref\b16.dll

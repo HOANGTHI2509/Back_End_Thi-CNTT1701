@@ -12,3 +12,4 @@ C:\Users\thiho\OneDrive\Documents\Back-End\BTVN\lap1.3\b4\obj\Debug\net8.0\refin
 C:\Users\thiho\OneDrive\Documents\Back-End\BTVN\lap1.3\b4\obj\Debug\net8.0\b4.pdb
 C:\Users\thiho\OneDrive\Documents\Back-End\BTVN\lap1.3\b4\obj\Debug\net8.0\b4.genruntimeconfig.cache
 C:\Users\thiho\OneDrive\Documents\Back-End\BTVN\lap1.3\b4\obj\Debug\net8.0\ref\b4.dll
+C:\Users\thiho\OneDrive\Documents\Back-End\BTVN\lap1.3\b4\obj\Debug\net8.0\b4.sourcelink.json

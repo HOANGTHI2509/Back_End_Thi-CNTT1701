@@ -3,36 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\lap1.3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0172A83B-D663-4A9C-AC86-A7D621217501}|b7\\b7.csproj|c:\\users\\thiho\\onedrive\\documents\\back-end\\btvn\\lap1.3\\b7\\nguoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0172A83B-D663-4A9C-AC86-A7D621217501}|b7\\b7.csproj|solutionrelative:b7\\nguoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F5F9A92A-C5A8-44A3-8C89-A293BB4D3596}|b22\\b22.csproj|c:\\users\\thiho\\onedrive\\documents\\back-end\\btvn\\lap1.3\\b22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F9A92A-C5A8-44A3-8C89-A293BB4D3596}|b22\\b22.csproj|solutionrelative:b22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0172A83B-D663-4A9C-AC86-A7D621217501}|b7\\b7.csproj|c:\\users\\thiho\\onedrive\\documents\\back-end\\btvn\\lap1.3\\b7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0172A83B-D663-4A9C-AC86-A7D621217501}|b7\\b7.csproj|solutionrelative:b7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{14747693-F370-4D91-AC1F-994073967DA5}|b21\\b21.csproj|c:\\users\\thiho\\onedrive\\documents\\back-end\\btvn\\lap1.3\\b21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14747693-F370-4D91-AC1F-994073967DA5}|b21\\b21.csproj|solutionrelative:b21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0172A83B-D663-4A9C-AC86-A7D621217501}|b7\\b7.csproj|c:\\users\\thiho\\onedrive\\documents\\back-end\\btvn\\lap1.3\\b7\\khoacntt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0172A83B-D663-4A9C-AC86-A7D621217501}|b7\\b7.csproj|solutionrelative:b7\\khoacntt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D91289FF-F4E7-4E51-95FB-68356D36A738}|b20\\b20.csproj|c:\\users\\thiho\\onedrive\\documents\\back-end\\btvn\\lap1.3\\b20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91289FF-F4E7-4E51-95FB-68356D36A738}|b20\\b20.csproj|solutionrelative:b20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0172A83B-D663-4A9C-AC86-A7D621217501}|b7\\b7.csproj|c:\\users\\thiho\\onedrive\\documents\\back-end\\btvn\\lap1.3\\b7\\cbgv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0172A83B-D663-4A9C-AC86-A7D621217501}|b7\\b7.csproj|solutionrelative:b7\\cbgv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B381B090-2207-4624-A600-FB47E40C05AC}|b19\\b19.csproj|c:\\users\\thiho\\onedrive\\documents\\back-end\\btvn\\lap1.3\\b19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B381B090-2207-4624-A600-FB47E40C05AC}|b19\\b19.csproj|solutionrelative:b19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D3A3854-BB3A-447B-909E-ABCB90419E6C}|b6\\b6.csproj|c:\\users\\thiho\\onedrive\\documents\\back-end\\btvn\\lap1.3\\b6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D3A3854-BB3A-447B-909E-ABCB90419E6C}|b6\\b6.csproj|solutionrelative:b6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{90559A34-0AF9-4004-80A5-3CB9C99FE043}|b18\\b18.csproj|c:\\users\\thiho\\onedrive\\documents\\back-end\\btvn\\lap1.3\\b18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90559A34-0AF9-4004-80A5-3CB9C99FE043}|b18\\b18.csproj|solutionrelative:b18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D3A3854-BB3A-447B-909E-ABCB90419E6C}|b6\\b6.csproj|c:\\users\\thiho\\onedrive\\documents\\back-end\\btvn\\lap1.3\\b6\\truongthpt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D3A3854-BB3A-447B-909E-ABCB90419E6C}|b6\\b6.csproj|solutionrelative:b6\\truongthpt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{90559A34-0AF9-4004-80A5-3CB9C99FE043}|b18\\b18.csproj|c:\\users\\thiho\\onedrive\\documents\\back-end\\btvn\\lap1.3\\b18\\coquan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90559A34-0AF9-4004-80A5-3CB9C99FE043}|b18\\b18.csproj|solutionrelative:b18\\coquan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D3A3854-BB3A-447B-909E-ABCB90419E6C}|b6\\b6.csproj|c:\\users\\thiho\\onedrive\\documents\\back-end\\btvn\\lap1.3\\b6\\hshocsinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D3A3854-BB3A-447B-909E-ABCB90419E6C}|b6\\b6.csproj|solutionrelative:b6\\hshocsinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{90559A34-0AF9-4004-80A5-3CB9C99FE043}|b18\\b18.csproj|c:\\users\\thiho\\onedrive\\documents\\back-end\\btvn\\lap1.3\\b18\\nguoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90559A34-0AF9-4004-80A5-3CB9C99FE043}|b18\\b18.csproj|solutionrelative:b18\\nguoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D3A3854-BB3A-447B-909E-ABCB90419E6C}|b6\\b6.csproj|c:\\users\\thiho\\onedrive\\documents\\back-end\\btvn\\lap1.3\\b6\\nguoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D3A3854-BB3A-447B-909E-ABCB90419E6C}|b6\\b6.csproj|solutionrelative:b6\\nguoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{257E2836-396F-412E-A02B-3E930C5F564B}|b17\\b17.csproj|c:\\users\\thiho\\onedrive\\documents\\back-end\\btvn\\lap1.3\\b17\\hinhtron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{257E2836-396F-412E-A02B-3E930C5F564B}|b17\\b17.csproj|solutionrelative:b17\\hinhtron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{257E2836-396F-412E-A02B-3E930C5F564B}|b17\\b17.csproj|c:\\users\\thiho\\onedrive\\documents\\back-end\\btvn\\lap1.3\\b17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{257E2836-396F-412E-A02B-3E930C5F564B}|b17\\b17.csproj|solutionrelative:b17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{257E2836-396F-412E-A02B-3E930C5F564B}|b17\\b17.csproj|c:\\users\\thiho\\onedrive\\documents\\back-end\\btvn\\lap1.3\\b17\\diem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{257E2836-396F-412E-A02B-3E930C5F564B}|b17\\b17.csproj|solutionrelative:b17\\diem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,110 +50,136 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "KhoaCNTT.cs",
-              "DocumentMoniker": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\lap1.3\\b7\\KhoaCNTT.cs",
-              "RelativeDocumentMoniker": "b7\\KhoaCNTT.cs",
-              "ToolTip": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\lap1.3\\b7\\KhoaCNTT.cs",
-              "RelativeToolTip": "b7\\KhoaCNTT.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAQwEQAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T15:26:27.468Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CBGV.cs",
-              "DocumentMoniker": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\lap1.3\\b7\\CBGV.cs",
-              "RelativeDocumentMoniker": "b7\\CBGV.cs",
-              "ToolTip": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\lap1.3\\b7\\CBGV.cs",
-              "RelativeToolTip": "b7\\CBGV.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAQwDkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T15:26:05.563Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Nguoi.cs",
-              "DocumentMoniker": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\lap1.3\\b7\\Nguoi.cs",
-              "RelativeDocumentMoniker": "b7\\Nguoi.cs",
-              "ToolTip": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\lap1.3\\b7\\Nguoi.cs",
-              "RelativeToolTip": "b7\\Nguoi.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAYwDAAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\lap1.3\\b22\\Program.cs",
+              "RelativeDocumentMoniker": "b22\\Program.cs",
+              "ToolTip": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\lap1.3\\b22\\Program.cs",
+              "RelativeToolTip": "b22\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T15:25:37.13Z",
+              "WhenOpened": "2025-06-09T01:00:33.068Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\lap1.3\\b7\\Program.cs",
-              "RelativeDocumentMoniker": "b7\\Program.cs",
-              "ToolTip": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\lap1.3\\b7\\Program.cs",
-              "RelativeToolTip": "b7\\Program.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwCIAAAAXAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\lap1.3\\b21\\Program.cs",
+              "RelativeDocumentMoniker": "b21\\Program.cs",
+              "ToolTip": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\lap1.3\\b21\\Program.cs",
+              "RelativeToolTip": "b21\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T15:24:17.627Z",
+              "WhenOpened": "2025-06-09T01:00:25.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\lap1.3\\b20\\Program.cs",
+              "RelativeDocumentMoniker": "b20\\Program.cs",
+              "ToolTip": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\lap1.3\\b20\\Program.cs",
+              "RelativeToolTip": "b20\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T01:00:16.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\lap1.3\\b19\\Program.cs",
+              "RelativeDocumentMoniker": "b19\\Program.cs",
+              "ToolTip": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\lap1.3\\b19\\Program.cs",
+              "RelativeToolTip": "b19\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T00:59:12.892Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "TruongTHPT.cs",
-              "DocumentMoniker": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\lap1.3\\b6\\TruongTHPT.cs",
-              "RelativeDocumentMoniker": "b6\\TruongTHPT.cs",
-              "ToolTip": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\lap1.3\\b6\\TruongTHPT.cs",
-              "RelativeToolTip": "b6\\TruongTHPT.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAYwEQAAAA5AAAAAAAAAA==",
+              "Title": "CoQuan.cs",
+              "DocumentMoniker": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\lap1.3\\b18\\CoQuan.cs",
+              "RelativeDocumentMoniker": "b18\\CoQuan.cs",
+              "ToolTip": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\lap1.3\\b18\\CoQuan.cs",
+              "RelativeToolTip": "b18\\CoQuan.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwDMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T15:21:04.352Z",
+              "WhenOpened": "2025-06-09T00:58:18.787Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "HSHocSinh.cs",
-              "DocumentMoniker": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\lap1.3\\b6\\HSHocSinh.cs",
-              "RelativeDocumentMoniker": "b6\\HSHocSinh.cs",
-              "ToolTip": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\lap1.3\\b6\\HSHocSinh.cs",
-              "RelativeToolTip": "b6\\HSHocSinh.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAQwDUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T15:20:43.202Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "Nguoi.cs",
-              "DocumentMoniker": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\lap1.3\\b6\\Nguoi.cs",
-              "RelativeDocumentMoniker": "b6\\Nguoi.cs",
-              "ToolTip": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\lap1.3\\b6\\Nguoi.cs",
-              "RelativeToolTip": "b6\\Nguoi.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAQwD4AAAABAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\lap1.3\\b18\\Nguoi.cs",
+              "RelativeDocumentMoniker": "b18\\Nguoi.cs",
+              "ToolTip": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\lap1.3\\b18\\Nguoi.cs",
+              "RelativeToolTip": "b18\\Nguoi.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwDAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T15:20:01.572Z",
+              "WhenOpened": "2025-06-09T00:57:56.229Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\lap1.3\\b6\\Program.cs",
-              "RelativeDocumentMoniker": "b6\\Program.cs",
-              "ToolTip": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\lap1.3\\b6\\Program.cs",
-              "RelativeToolTip": "b6\\Program.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwCsAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\lap1.3\\b18\\Program.cs",
+              "RelativeDocumentMoniker": "b18\\Program.cs",
+              "ToolTip": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\lap1.3\\b18\\Program.cs",
+              "RelativeToolTip": "b18\\Program.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAgwH8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T15:13:22.532Z",
+              "WhenOpened": "2025-06-09T00:57:45.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HinhTron.cs",
+              "DocumentMoniker": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\lap1.3\\b17\\HinhTron.cs",
+              "RelativeDocumentMoniker": "b17\\HinhTron.cs",
+              "ToolTip": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\lap1.3\\b17\\HinhTron.cs",
+              "RelativeToolTip": "b17\\HinhTron.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAwwEsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T00:54:55.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Diem.cs",
+              "DocumentMoniker": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\lap1.3\\b17\\Diem.cs",
+              "RelativeDocumentMoniker": "b17\\Diem.cs",
+              "ToolTip": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\lap1.3\\b17\\Diem.cs",
+              "RelativeToolTip": "b17\\Diem.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwBYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T00:54:43.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\lap1.3\\b17\\Program.cs",
+              "RelativeDocumentMoniker": "b17\\Program.cs",
+              "ToolTip": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\lap1.3\\b17\\Program.cs",
+              "RelativeToolTip": "b17\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T00:53:56.623Z",
               "EditorCaption": ""
             }
           ]

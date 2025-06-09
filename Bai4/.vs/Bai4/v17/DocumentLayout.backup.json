@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\Bai4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52365EBB-53F1-47BB-B344-C4C08F9D5513}|Bai4\\Bai4.csproj|c:\\users\\thiho\\onedrive\\documents\\back-end\\btvn\\bai4\\bai4\\sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52365EBB-53F1-47BB-B344-C4C08F9D5513}|Bai4\\Bai4.csproj|solutionrelative:bai4\\sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52365EBB-53F1-47BB-B344-C4C08F9D5513}|Bai4\\Bai4.csproj|c:\\users\\thiho\\onedrive\\documents\\back-end\\btvn\\bai4\\bai4\\b2_oop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52365EBB-53F1-47BB-B344-C4C08F9D5513}|Bai4\\Bai4.csproj|solutionrelative:bai4\\b2_oop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52365EBB-53F1-47BB-B344-C4C08F9D5513}|Bai4\\Bai4.csproj|c:\\users\\thiho\\onedrive\\documents\\back-end\\btvn\\bai4\\bai4\\tailieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52365EBB-53F1-47BB-B344-C4C08F9D5513}|Bai4\\Bai4.csproj|solutionrelative:bai4\\tailieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52365EBB-53F1-47BB-B344-C4C08F9D5513}|Bai4\\Bai4.csproj|c:\\users\\thiho\\onedrive\\documents\\back-end\\btvn\\bai4\\bai4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52365EBB-53F1-47BB-B344-C4C08F9D5513}|Bai4\\Bai4.csproj|solutionrelative:bai4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sach.cs",
+              "DocumentMoniker": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\Bai4\\Bai4\\Sach.cs",
+              "RelativeDocumentMoniker": "Bai4\\Sach.cs",
+              "ToolTip": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\Bai4\\Bai4\\Sach.cs",
+              "RelativeToolTip": "Bai4\\Sach.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T09:37:39.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaiLieu.cs",
+              "DocumentMoniker": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\Bai4\\Bai4\\TaiLieu.cs",
+              "RelativeDocumentMoniker": "Bai4\\TaiLieu.cs",
+              "ToolTip": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\Bai4\\Bai4\\TaiLieu.cs",
+              "RelativeToolTip": "Bai4\\TaiLieu.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCkAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T09:13:32.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "B2_OOP.cs",
+              "DocumentMoniker": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\Bai4\\Bai4\\B2_OOP.cs",
+              "RelativeDocumentMoniker": "Bai4\\B2_OOP.cs",
+              "ToolTip": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\Bai4\\Bai4\\B2_OOP.cs",
+              "RelativeToolTip": "Bai4\\B2_OOP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T09:10:45.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\Bai4\\Bai4\\Program.cs",
+              "RelativeDocumentMoniker": "Bai4\\Program.cs",
+              "ToolTip": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\Bai4\\Bai4\\Program.cs",
+              "RelativeToolTip": "Bai4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T07:20:42.717Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

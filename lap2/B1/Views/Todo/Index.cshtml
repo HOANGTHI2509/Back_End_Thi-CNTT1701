@@ -1,0 +1,48 @@
+﻿@model IEnumerable<TodoItem> // Khai báo kiểu dữ liệu mà View này sẽ làm việc cùng
+
+@{
+    ViewData["Title"] = "Danh sách công việc";
+}
+
+<h1>Danh sách công việc</h1>
+
+<p>
+    <a asp-action="Add" class="btn btn-success">Thêm công việc mới</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IsCompleted)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DueDate)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Title)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IsCompleted)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DueDate)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-sm btn-warning">Sửa</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-sm btn-info">Chi tiết</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-sm btn-danger">Xóa</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

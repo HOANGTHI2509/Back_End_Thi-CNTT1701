@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\Lap3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C182545-3736-46BB-99CC-794081079F96}|Lap3\\Lap3.csproj|c:\\users\\thiho\\onedrive\\documents\\back-end\\btvn\\lap3\\lap3\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C182545-3736-46BB-99CC-794081079F96}|Lap3\\Lap3.csproj|solutionrelative:lap3\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C182545-3736-46BB-99CC-794081079F96}|Lap3\\Lap3.csproj|c:\\users\\thiho\\onedrive\\documents\\back-end\\btvn\\lap3\\lap3\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C182545-3736-46BB-99CC-794081079F96}|Lap3\\Lap3.csproj|solutionrelative:lap3\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C182545-3736-46BB-99CC-794081079F96}|Lap3\\Lap3.csproj|c:\\users\\thiho\\onedrive\\documents\\back-end\\btvn\\lap3\\lap3\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C182545-3736-46BB-99CC-794081079F96}|Lap3\\Lap3.csproj|solutionrelative:lap3\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\Lap3\\Lap3\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "Lap3\\Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\Lap3\\Lap3\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "Lap3\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T01:26:43.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\Lap3\\Lap3\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Lap3\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\Lap3\\Lap3\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Lap3\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T01:26:05.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\Lap3\\Lap3\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Lap3\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\thiho\\OneDrive\\Documents\\Back-End\\BTVN\\Lap3\\Lap3\\Models\\Product.cs",
+              "RelativeToolTip": "Lap3\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T01:25:37.66Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
